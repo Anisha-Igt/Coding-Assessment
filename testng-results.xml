@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T11:41:50 IST" name="Suite" finished-at="2023-05-20T11:42:34 IST" duration-ms="44342">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T11:41:50 IST" name="Firefox Test" finished-at="2023-05-20T11:42:10 IST" duration-ms="19933">
+      <class name="SeleniumAutomation.TestNGclass">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:41:50 IST" name="setup" finished-at="2023-05-20T11:41:53 IST" duration-ms="3389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAOL(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:41:53 IST" name="verifyAOL" data-provider="searchText" finished-at="2023-05-20T11:41:55 IST" duration-ms="1898" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAOL -->
+        <test-method signature="verifyAOL(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:41:55 IST" name="verifyAOL" data-provider="searchText" finished-at="2023-05-20T11:41:57 IST" duration-ms="1552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAOL -->
+        <test-method signature="verifyAOL(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:41:57 IST" name="verifyAOL" data-provider="searchText" finished-at="2023-05-20T11:41:58 IST" duration-ms="1543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAOL -->
+        <test-method signature="verifyGoogle(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:41:58 IST" name="verifyGoogle" data-provider="searchText" finished-at="2023-05-20T11:42:01 IST" duration-ms="2600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+        <test-method signature="verifyGoogle(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:42:01 IST" name="verifyGoogle" data-provider="searchText" finished-at="2023-05-20T11:42:02 IST" duration-ms="1335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+        <test-method signature="verifyGoogle(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:42:02 IST" name="verifyGoogle" data-provider="searchText" finished-at="2023-05-20T11:42:04 IST" duration-ms="1835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+        <test-method signature="verifyYahoo(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:42:04 IST" name="verifyYahoo" data-provider="searchText" finished-at="2023-05-20T11:42:06 IST" duration-ms="1757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahoo -->
+        <test-method signature="verifyYahoo(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:42:06 IST" name="verifyYahoo" data-provider="searchText" finished-at="2023-05-20T11:42:07 IST" duration-ms="1398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahoo -->
+        <test-method signature="verifyYahoo(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:42:07 IST" name="verifyYahoo" data-provider="searchText" finished-at="2023-05-20T11:42:09 IST" duration-ms="1386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahoo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumAutomation.TestNGclass@72e5a8e]" started-at="2023-05-20T11:42:09 IST" name="tearDown" finished-at="2023-05-20T11:42:10 IST" duration-ms="1188" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Tried to run command without establishing a connection
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0e5f18d0-374f-4d9b-8797-4cfe98733a27, quit {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.1, moz:accessibilityChecks: false, moz:buildID: 20230511191846, moz:debuggerAddress: 127.0.0.1:45492, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 146244, moz:profile: C:\Users\Shalav\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:45492/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0e5f18d0-374f-4d9b-8797-4cfe98733a27]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0e5f18d0-374f-4d9b-8797-4cfe98733a27, quit {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.1, moz:accessibilityChecks: false, moz:buildID: 20230511191846, moz:debuggerAddress: 127.0.0.1:45492, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 146244, moz:profile: C:\Users\Shalav\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:45492/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0e5f18d0-374f-4d9b-8797-4cfe98733a27
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.lambda$execute$1(DriverCommandExecutor.java:105)
+at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumAutomation.TestNGclass -->
+    </test> <!-- Firefox Test -->
+    <test started-at="2023-05-20T11:42:10 IST" name="Edge Test" finished-at="2023-05-20T11:42:34 IST" duration-ms="24314">
+      <class name="SeleniumAutomation.TestNGclass">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:10 IST" name="setup" finished-at="2023-05-20T11:42:13 IST" duration-ms="2932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAOL(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:13 IST" name="verifyAOL" data-provider="searchText" finished-at="2023-05-20T11:42:15 IST" duration-ms="2515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAOL -->
+        <test-method signature="verifyAOL(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:15 IST" name="verifyAOL" data-provider="searchText" finished-at="2023-05-20T11:42:17 IST" duration-ms="1408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAOL -->
+        <test-method signature="verifyAOL(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:17 IST" name="verifyAOL" data-provider="searchText" finished-at="2023-05-20T11:42:18 IST" duration-ms="1369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAOL -->
+        <test-method signature="verifyGoogle(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:18 IST" name="verifyGoogle" data-provider="searchText" finished-at="2023-05-20T11:42:22 IST" duration-ms="3784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+        <test-method signature="verifyGoogle(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:22 IST" name="verifyGoogle" data-provider="searchText" finished-at="2023-05-20T11:42:25 IST" duration-ms="3262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+        <test-method signature="verifyGoogle(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:25 IST" name="verifyGoogle" data-provider="searchText" finished-at="2023-05-20T11:42:29 IST" duration-ms="4130" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogle -->
+        <test-method signature="verifyYahoo(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:29 IST" name="verifyYahoo" data-provider="searchText" finished-at="2023-05-20T11:42:32 IST" duration-ms="2266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahoo -->
+        <test-method signature="verifyYahoo(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:32 IST" name="verifyYahoo" data-provider="searchText" finished-at="2023-05-20T11:42:33 IST" duration-ms="1106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebDriver]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahoo -->
+        <test-method signature="verifyYahoo(java.lang.String)[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:33 IST" name="verifyYahoo" data-provider="searchText" finished-at="2023-05-20T11:42:34 IST" duration-ms="1147" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahoo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumAutomation.TestNGclass@26d9b808]" started-at="2023-05-20T11:42:34 IST" name="tearDown" finished-at="2023-05-20T11:42:34 IST" duration-ms="371" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, close {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.1, moz:accessibilityChecks: false, moz:buildID: 20230511191846, moz:debuggerAddress: 127.0.0.1:45492, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 146244, moz:profile: C:\Users\Shalav\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:45492/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, close {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.1, moz:accessibilityChecks: false, moz:buildID: 20230511191846, moz:debuggerAddress: 127.0.0.1:45492, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 146244, moz:profile: C:\Users\Shalav\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:45492/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:145)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:419)
+at SeleniumAutomation.DriverFactory.closeAllDriver(DriverFactory.java:50)
+at SeleniumAutomation.TestNGclass.tearDown(TestNGclass.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:361)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:296)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:644)
+at org.testng.TestRunner.afterRun(TestRunner.java:914)
+at org.testng.TestRunner.run(TestRunner.java:605)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumAutomation.TestNGclass -->
+    </test> <!-- Edge Test -->
+  </suite> <!-- Suite -->
+</testng-results>
